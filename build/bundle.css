@@ -1,6 +1,7 @@
-main.svelte-1ur6qhx{height:100%;width:100%;position:relative;text-align:center;padding:0;margin:0 auto}@media(min-width: 640px){main.svelte-1ur6qhx{max-width:none}}
+main.svelte-dh6dg9{height:100%;width:100%;position:relative;text-align:center;padding:0;margin:0 auto}.ribbon.svelte-dh6dg9{z-index:3;position:absolute;top:0;right:0}.footer.svelte-dh6dg9{bottom:3px;left:50%;transform:translateX(-50%);position:absolute;z-index:3;white-space:nowrap;font-size:6px}@media(min-width: 640px){main.svelte-dh6dg9{max-width:none}}
 .container.svelte-ytbq5f{z-index:1;position:absolute;top:0;left:0;bottom:0;right:0}
-.mode-control.svelte-1b2ihy2{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:2;display:flex;justify-content:center}.mode-btn.svelte-1b2ihy2{margin:0 10px}
-.brand-control.svelte-jluqp5{position:absolute;left:0;top:0;z-index:3;display:flex;flex-direction:column}.brand-btn.svelte-jluqp5{margin:10px}
+.mode-control.svelte-1uwtw0r{position:absolute;bottom:60px;left:20px;z-index:2;display:flex;flex-direction:row}.title.svelte-1uwtw0r{background:#888;color:white;writing-mode:vertical-lr;text-transform:uppercase}.mode-btns.svelte-1uwtw0r{display:flex;flex-direction:column}.mode-btn.svelte-1uwtw0r{margin:0}
+.brand-control.svelte-on7nfv{position:absolute;left:20px;top:15px;z-index:3;display:flex;flex-direction:row}.title.svelte-on7nfv{background:#888;color:white;writing-mode:vertical-lr;text-transform:uppercase}.brand-btns.svelte-on7nfv{display:flex;flex-direction:column}.brand-btn.svelte-on7nfv{margin:0}
+.lipstick-info.svelte-1isw233{text-decoration:none;border:1px solid black;color:white;position:relative;width:120px;height:140px;background:#888;position:absolute;right:20px;bottom:20px;z-index:3;display:flex;justify-content:center;align-items:center;overflow:hidden}.corner.svelte-1isw233{position:absolute;font-size:0.8em}.brand.svelte-1isw233{top:3px;left:3px}.color_text.svelte-1isw233{top:3px;right:3px}.color_hex.svelte-1isw233{bottom:5px;left:50%;transform:translateX(-50%);white-space:nowrap}
 
 /*# sourceMappingURL=bundle.css.map */
